@@ -116,7 +116,15 @@ a {
 	.main-nav li {
 		margin-right: 12px;
 	}
-
+	.col {
+		display: inline-block;
+		width: 50%;
+		margin-right: -4px;
+		vertical-align: top;
+		padding-left: 4px;
+		padding-right: 4px;
+	}
+		
 }
 
 
